@@ -2,7 +2,7 @@
 
 Телеграм-бот анализирует ваш сайт и отвечает на вопросы по его содержимому.
 
-![wikibot](./assets/wikibot.jpg)
+![Alt text](./assets/wikibot.png)
 
 ## Стек
 
